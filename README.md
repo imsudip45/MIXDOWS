@@ -2,6 +2,8 @@ This is 'MIXDOWS'.
 It is a HTML only website that resembles 'WINDOWS 11' and 'Linux' distros as well.
 But for a twist all the icons are mixed up from various linux ditros to newer Windows.
 
+=============ONLY USE DESKTOP DEVICES FOR VIEWING OR USE DESKTOP MODE FOR VIEWING ON MOBILE DEVICES===================
+
 Directly you can visit:https://imsudip45.github.io/MIXDOWS/
 
 For running this on your environment follow these steps:
