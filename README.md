@@ -1,6 +1,8 @@
 This is 'MIXDOWS'. 
-It is a HTML only website that resembles 'WINDOWS 98' , 'WINDOWS XP' and even 'WINDOWS 11' as well.
+It is a HTML only website that resembles 'WINDOWS 11' and 'Linux' distros as well.
 But for a twist all the icons are mixed up from various linux ditros to newer Windows.
+
+Directly you can visit:https://imsudip45.github.io/MIXDOWS/
 
 For running this on your environment follow these steps:
 1. Download the zip file of this code.
