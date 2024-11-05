@@ -4,7 +4,7 @@ But for a twist all the icons are mixed up from various linux ditros to newer Wi
 
 =============ONLY USE DESKTOP DEVICES FOR VIEWING OR USE DESKTOP MODE FOR VIEWING ON MOBILE DEVICES===================
 
-Directly you can visit:https://imsudip45.github.io/MIXDOWS/
+Directly you can visit: https://imsudip45.github.io/MIXDOWS/
 
 For running this on your environment follow these steps:
 1. Download the zip file of this code.
@@ -13,4 +13,4 @@ For running this on your environment follow these steps:
    There you go!!!
    ENJOYYYYY
 
-This is created for a html only website designing competition . So wish me luck!!!
+This was created for a html only website designing competition and I WON IT!!!
